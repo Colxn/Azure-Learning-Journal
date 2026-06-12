@@ -217,9 +217,3 @@ Comprender estos conceptos es fundamental antes de estudiar la arquitectura y lo
 ---
 
 [Volver al indice](../README.es.md)
-
-
-
-Este es el texto que tengo planeado. 
-
-Que tal lo vez, recuerda que esto se usara para subirlo a Github y que sirva para que futuros empleadores (Cuando consiga la AZ900, MD104, SC300 Y AZ104) puedan ver que se documentar temas y proyectos.
