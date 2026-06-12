@@ -1,4 +1,4 @@
-# **Azure Learning Journal**
+# **Diario de aprendizaje de Azure**
 
 Bitácora diaria de mi proceso aprendiendo Microsoft Azure, desde cero, mientras preparo la certificación AZ-900 (Azure Fundamentals).
 
@@ -22,7 +22,5 @@ No tengo experiencia previa trabajando con Azure de forma profesional — este r
 12. [Conjuntos de escalado](#12-conjuntos-de-escalado)
 13. [Escalabilidad, alta disponibilidad y elasticidad](#13-escalabiliadad-alta-disponibilidad-y-elasticidad)
 
----
 
-## 1. Conceptos de Cloud Computing
 
