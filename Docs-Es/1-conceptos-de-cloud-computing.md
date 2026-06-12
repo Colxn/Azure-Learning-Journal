@@ -1,12 +1,6 @@
 ## **Conceptos del Cloud Computing**
 
 ---
-
-**Introducción**
-
-
-# Conceptos de Cloud Computing
-
 ## Introducción
 
 Cloud Computing es la entrega de servicios informáticos a través de internet, permitiendo que organizaciones y usuarios accedan a recursos tecnológicos sin necesidad de poseer o administrar infraestructura física.
