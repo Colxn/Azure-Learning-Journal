@@ -4,7 +4,7 @@ Daily log of my learning process while studying Microsoft Azure from scratch, as
 
 I do not have professional experience working with Azure yet — this repository documents my real learning process: theory, hands-on practice, mistakes, and continuous progress as I build cloud engineering skills.
 
-🇪🇸 [Spanish version](README.es.md) | 🇬🇧 English version (you are here)
+🇲🇽 [Spanish version](README.es.md) | 🇬🇧 English version (you are here)
 
 ## Index
 
