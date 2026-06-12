@@ -216,4 +216,4 @@ Comprender estos conceptos es fundamental antes de estudiar la arquitectura y lo
 
 ---
 
-[Volver al indice](./README.es.md)
+[Volver al indice](../README.es.md)
