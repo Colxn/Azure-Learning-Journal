@@ -8,7 +8,7 @@ I do not have professional experience working with Azure yet — this repository
 
 ## Index
 
-1. [Cloud Computing Concepts](#1-Cloud-computing-concepts)
+1. [Cloud Computing Concepts](1-Cloud-computing-concepts.md)
 2. [Cloud Deployment Models](#2-Cloud-deployment-models)
 3. [Service Models: IaaS, PaaS, SaaS](services-models-iaas-paas-saas) 
 4. [Fundamental Cloud Pillars](fundamental-cloud-pillars) 
