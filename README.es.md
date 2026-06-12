@@ -8,7 +8,7 @@ No tengo experiencia previa trabajando con Azure de forma profesional — este r
 
 ## Indice
 
-1. [Conceptops de Cloud Computing](#1-Conceptops-de-cloud-computing)
+1. [Conceptos de Cloud Computing](#1-Conceptos-de-cloud-computing)
 2. [Tipos de despliegues del Cloud](#2-tipos-de-despliegues-del-cloud)
 3. [Modelos de servicio: IaaS, PaaS, SaaS](#3-modelos-de-servicio-IaaS-PaaS-SaaS)
 4. [Pilares fundamentales del Cloud](#4-pilares-fundamentales-del-cloud)
@@ -21,4 +21,8 @@ No tengo experiencia previa trabajando con Azure de forma profesional — este r
 11. [Opciones de compra de VM](#11-opciones-de-compra-de-VM)
 12. [Conjuntos de escalado](#12-conjuntos-de-escalado)
 13. [Escalabilidad, alta disponibilidad y elasticidad](#13-escalabiliadad-alta-disponibilidad-y-elasticidad)
+
+---
+
+## 1. Conceptos de Cloud Computing
 
