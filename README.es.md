@@ -10,7 +10,7 @@ No tengo experiencia previa trabajando con Azure de forma profesional — este r
 
 1. [Conceptos de Cloud Computing](Docs-Es/1-conceptos-de-cloud-computing.md)
 2. [Tipos de despliegues del Cloud](Docs-Es/2-tipos-de-despliegues-del-cloud.md)
-3. [Modelos de servicio: IaaS, PaaS, SaaS](#3-modelos-de-servicio-IaaS-PaaS-SaaS)
+3. [Modelos de servicio: IaaS, PaaS, SaaS](Docs-Es/3-modelos-de-servicio-IaaS-PaaS-SaaS.md)
 4. [Pilares fundamentales del Cloud](#4-pilares-fundamentales-del-cloud)
 5. [Modelo de responsabilidad compartida](#5-modelo-de-responsabilidad-compartida)
 6. [Arquitectura global de Azure](#6-Arquitectura-global-de-Azure)
