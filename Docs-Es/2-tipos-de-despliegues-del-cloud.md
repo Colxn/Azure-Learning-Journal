@@ -25,7 +25,7 @@ Los recursos son compartidos entre múltiples clientes, aunque cada organizació
 - Implementación rápida de recursos
 - Pago por uso (Pay-As-You-Go)
 
-> **Ejemplo:** una empresa crea máquinas virtuales en Azure sin comprar servidores físicos.
+**Ejemplo:** una empresa crea máquinas virtuales en Azure sin comprar servidores físicos.
 
 ---
 
@@ -41,7 +41,7 @@ Los recursos no se comparten con otros clientes y la organización mantiene un m
 - Personalización avanzada
 - Requiere inversión y mantenimiento
 
-> **Ejemplo:** una organización implementa un entorno virtualizado con VMware para alojar sus aplicaciones internas sin depender de proveedores externos.
+**Ejemplo:** una organización implementa un entorno virtualizado con VMware para alojar sus aplicaciones internas sin depender de proveedores externos.
 
 ---
 
@@ -59,7 +59,7 @@ Microsoft Azure extiende el modelo híbrido mediante **Azure Arc**, que permite 
 - Aprovecha la escalabilidad de la nube pública
 - Facilita la migración gradual al cloud
 
-> **Ejemplo:** una empresa almacena información sensible localmente mientras ejecuta aplicaciones web en Azure.
+**Ejemplo:** una empresa almacena información sensible localmente mientras ejecuta aplicaciones web en Azure.
 
 ---
 
