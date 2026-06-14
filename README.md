@@ -10,7 +10,7 @@ I do not have professional experience working with Azure yet — this repository
 
 1. [Cloud Computing Concepts](Docs-En/1-Cloud-computing-concepts.md)
 2. [Cloud Deployment Models](Docs-En/2-Cloud-deployment-models.md)
-3. [Service Models: IaaS, PaaS, SaaS](services-models-iaas-paas-saas) 
+3. [Service Models: IaaS, PaaS, SaaS](Doc-En/3-services-models-iaas-paas-saas.md) 
 4. [Fundamental Cloud Pillars](fundamental-cloud-pillars) 
 5. [Shared Responsibility Model](shared-responsibility-model)
 6. [Azure Global Architecture](Azure-global-architecture)
