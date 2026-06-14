@@ -209,4 +209,4 @@ Understanding these concepts is fundamental before learning Azure architecture a
 
 ---
 
-
+[Return to index](../README.md)
