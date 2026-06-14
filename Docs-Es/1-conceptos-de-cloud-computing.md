@@ -40,9 +40,7 @@ Los usuarios pueden aprovisionar recursos cuando lo necesiten sin interactuar di
 
 Recursos como máquinas virtuales, bases de datos o almacenamiento pueden desplegarse mediante portales web o herramientas de línea de comandos.
 
-Ejemplo:
-
-Una empresa crea un nuevo servidor desde Azure Portal sin necesidad de contactar a Microsoft.
+**Ejemplo:** Una empresa crea un nuevo servidor desde Azure Portal sin necesidad de contactar a Microsoft.
 
 ---
 
@@ -54,9 +52,7 @@ Los recursos pueden aumentar cuando la demanda crece o disminuir cuando deja de 
 
 Esto evita comprar infraestructura innecesaria.
 
-Ejemplo:
-
-Una aplicación que hoy atiende 100 usuarios podría necesitar atender 1,000,000 usuarios en el futuro.
+**Ejemplo:** Una aplicación que hoy atiende 100 usuarios podría necesitar atender 1,000,000 usuarios en el futuro.
 
 ---
 
@@ -168,9 +164,7 @@ Esto permite:
 * Llegar a usuarios internacionales rápidamente
 * Implementar redundancia geográfica
 
-Ejemplo:
-
-Una empresa en México puede desplegar infraestructura cercana a usuarios en Europa o Asia.
+**Ejemplo:** Una empresa en México puede desplegar infraestructura cercana a usuarios en Europa o Asia.
 
 ---
 
